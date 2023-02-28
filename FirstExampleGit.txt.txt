@@ -1,1 +1,2 @@
 driver.findelement(By.id("")).sendkeys("");
+driver.findelement(By.id("")).click();
