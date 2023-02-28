@@ -1,0 +1,22 @@
+Java Operators
+
+1 - Arithmetic Operators (+,-,*,/,++,__,%)
+2 - Relational Operators (==, !=, <, >, <=,>=)  == (equality sign) =(assignment sign)
+3 - Logical Operators (&&, !,
+4 - Assignment Operators (=, +=, -=) a+=b a=2 b=3 a = 5  -+ a-b = a
+
+
+String Operators
+String name = "Java";
+String greetings = "Hello my people";
+
+1) concatenation - concat(String str);
+2) length();
+3) toLowerccase()
+4) toUppercase()
+
+Control Flow Statement
+3 Categories
+1) Decision-making Statement (if,  if-else, switch)
+2) Looping statement (for, while, do-while)
+3) Branching Statement (Break, return,continue)
